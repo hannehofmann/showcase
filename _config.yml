@@ -1,0 +1,17 @@
+# Site settings
+title: Showcase 2014
+email: hhofmann@fork.de
+description: > # this means to ignore newlines until "baseurl:"
+  Fork Unstable Media is the creative agency that’s constant sidestepping of communication industry clichés leaves the experts worried. It defines the agency that’s against the wave of one-stop shops and the flotsam of networked leviathans that have succeeded in diluting the creative well. In response, Fork chose to become an adaptive and resilient organism, whereby an established core agency, in tandem with specialists from the surrounding, fluid construct, work as one.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.fork.de" # the base hostname & protocol for your site
+twitter_username: hannehofmann
+github_username:  hanne.hofmann
+
+# Build settings
+markdown: kramdown
+
+# SASS
+# sass:
+#     sass_dir: css/sass
+#     style: :compressed
